@@ -11,3 +11,6 @@
 - Ruby on Rails
 - PostgreSQL
 - Next.js
+# 5. 프로젝트 구조
+- 백엔드 : Ruby on Rails 
+- 프론트엔드 : Next.js [레포](https://github.com/gamrom/family_diary_front).
